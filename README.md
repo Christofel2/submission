@@ -41,3 +41,5 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek secara lokal:
     ```
 
     Streamlit akan otomatis membuka browser web dan menampilkan aplikasi dashboard Anda.
+5. **Atau Bisa Kunjungi Link ini**
+[Kunjungi situs Streamlit](https://submission-wddwja24fkh3qgnupqbywd.streamlit.app/)
